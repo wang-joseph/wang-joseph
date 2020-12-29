@@ -15,6 +15,7 @@ I use Python a lot, but I also use JS/TS, and Java (My Java projects are mostly 
 \
 \
 \
+\
 I'm honestly a very on-off kind of programmer. Some days I'll be working till 4am without sleep and other days I play *Terraria* all day, still without sleep. If you enjoy coin flips and the like, try playing the game "will my wakatime show 200 hours or nothing?"
 \
 \
@@ -99,9 +100,9 @@ Other than that, that's pretty much it. Check out some of my friend's profiles I
 
 <br />
  
-<sup>
-  Widgets provided by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Thanks for making this profile a bit cooler!
-</sup>
-<sup>
-  Thanks to [beepboop271](https://github.com/beepboop271), this layout was heavily inspired by his.
-</sup>
+<sub>
+  Widgets provided by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for making this profile a bit cooler!
+</sub>
+<sub>
+  Thanks to <a href="https://github.com/beepboop271">beepboop271</a>, this layout was heavily inspired by his.
+</sub>
