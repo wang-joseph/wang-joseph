@@ -43,7 +43,7 @@ I do occasional small projects, but honestly a lot of my projects scream "google
 </p>
 <p>
   <a href="https://github.com/shari09/StuCo-Website-Redesigned">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=radical"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=radical&show_owner=true"/>
   </a>
   <a href="https://github.com/EmeraldEntities/hofBOTcl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=hofBOTcl&theme=radical"/>
@@ -53,10 +53,10 @@ I do occasional small projects, but honestly a lot of my projects scream "google
 I also do hackathons sometimes and they're pretty fun. I've been to three so far - Hack the North, MHacks, and UOttahack. I'm currently planning to attend HTN2020++, and hopefully that can be a nice fourth one on my belt, as well as the first virtual one I've been to. Here are some of the repos for the work:
 <p>
   <a href="https://github.com/candicezzzzz/uottahack-3">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&theme=radical"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&theme=radical&show_owner=true"/>
   </a>
   <a href="https://github.com/beepboop271/mhacks-12">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=radical&show_owner=true"/>
   </a>
 </p>
 
