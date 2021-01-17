@@ -22,13 +22,15 @@ I'm honestly a very on-off kind of programmer. Some days I'll be working till 4a
 I also try to do some PRs and the like (contributing to open source!!), but I tend to do more personal projects... I aspire to one day have the technical know-how to confidently contribute to the open source community, though!
 <p>
   <a href="https://github.com/EmeraldEntities">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmeraldEntities&theme=cobalt"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmeraldEntities&theme=cobalt&layout=compact"/>
   </a>
   <a href="https://github.com/EmeraldEntities">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmeraldEntities&show_icons=true&theme=nightowl&hide_rank=true&hide=contribs,stars&count_private=true&layout=default&custom_title=GitHub%20Stats"/>
   </a>
 </p>
 
+\
+\
 \
 I do occasional small projects, but honestly a lot of my projects scream "google drive but for code". Most of the projects I work on generally aren't my own repos, but someone else's repo that I contribute to. Here are some that I like.
 
