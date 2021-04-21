@@ -25,7 +25,7 @@ I also try to do some PRs and the like (contributing to open source!!), but I te
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmeraldEntities&theme=cobalt&layout=compact"/>
   </a>
   <a href="https://github.com/EmeraldEntities">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmeraldEntities&show_icons=true&theme=nightowl&hide_rank=true&hide=contribs,stars&count_private=true&layout=default&custom_title=GitHub%20Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmeraldEntities&show_icons=true&theme=nightowl&hide_rank=true&hide=stars&count_private=true&layout=default&custom_title=GitHub%20Stats"/>
   </a>
 </p>
 
