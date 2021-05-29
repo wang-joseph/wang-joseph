@@ -226,7 +226,7 @@ Bam, visitor counter. Super fun trick: If you refresh 50 times, you get to see t
       - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions. <br />
       - <a href="https://github.com/beepboop271">beepboop271</a>, this layout was inspired by his.<br />
       - <a href="https://github.com/vivian-dai">vivian-dai</a>, she inspired me to make a V2.<br />
-      - <a href="https://github.com/shari09">shari09</a>, because <3.<br />
+      - <a href="https://github.com/shari09">shari09</a>, for supporting me through all types of days <3.<br />
       Thanks for making this profile a bit cooler!
     </sub>
 </details>
