@@ -76,22 +76,22 @@
 <div align="center">  
   <h3>Languages</h3>
   
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
 </div>  
 
 <div align="center">  
   <h3>Libraries</h3>
   
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
 </div>  
 </details>
 
@@ -221,9 +221,8 @@ Bam, visitor counter. Super fun trick: If you refresh 50 times, you get to see t
       - <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> for the repo and overall GitHub stats. <br />
       - <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/readme-streak-stats</a> for the streak stats. <br />
       - <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Nathan13888/VisitorBadgeReloaded</a> for the visitor badge. <br />
-      - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions, and the assets. <br />
+      - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout, good code suggestions, and the assets. <br />
       - <a href="https://shields.io/">shields.io</a> for the badges. <br />
-      - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions. <br />
       - <a href="https://github.com/beepboop271">beepboop271</a>, this layout was inspired by his.<br />
       - <a href="https://github.com/vivian-dai">vivian-dai</a>, she inspired me to make a V2.<br />
       - <a href="https://github.com/shari09">shari09</a>, for supporting me through all types of days <3.<br />
