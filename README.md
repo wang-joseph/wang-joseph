@@ -31,7 +31,6 @@
   <br /><br />
   I use Python a lot, but I also use JS/TS, and Java (My Java projects are mostly school projects though). Outside of what's shown here, I also learn and dabble occasionally in Julia, C, and Kotlin (nothing pushed to GitHub though).
 
-  <br />
   </p>
 </div>
 
@@ -57,7 +56,7 @@
   I also try to do some PRs and the like (contributing to open source!!), but I tend to do more personal projects... I aspire to one day have the technical know-how to confidently contribute to the open source community, though!
 </div>
 
-<br /><br />
+<br />
 
 <!-- GitHub streak! This is cool, although it'll stay at 0 for quite some time. Newlines around seem to be necessary, but I haven't the foggiest why. Probably some specification on the markdown flavouring that I haven't bothered to read! -->
 <div align="center">
