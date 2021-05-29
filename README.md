@@ -146,58 +146,60 @@
 </details>
 
 Now that I think about it, the majority of the pins here are already pinned on my profile... too bad!
-Other than that, that's pretty much it. Check out some of my friend/people I've worked with's profiles I guess (hope they don't mind me throwing them in here).
+<details>
+  <summary>Other than that, that's pretty much it. Check out some of my friend/people I've worked with's profiles I guess (hope they don't mind me throwing them in here).</summary>
 
-<!-- One day I dream that Github markdown will support border=0... I've listed some people I've worked with here, they're pretty cool! -->
-<br />
-<hr /> 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/beepboop271">
-        <img src="https://avatars2.githubusercontent.com/u/53926222?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>beepboop271</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shari09">
-        <img src="https://avatars0.githubusercontent.com/u/44912260?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>shari09</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nightlight521">
-        <img src="https://avatars0.githubusercontent.com/u/10256074?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>nightlight521</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/candicezzzzz">
-        <img src="https://avatars1.githubusercontent.com/u/58599808?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>candicezzzzz</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NathanWong1106">
-        <img src="https://avatars1.githubusercontent.com/u/56657800?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>NathanWong1106</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vivian-dai">
-        <img src="https://avatars.githubusercontent.com/u/38384400?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>vivian-dai</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <!-- One day I dream that Github markdown will support border=0... I've listed some people I've worked with here, they're pretty cool! -->
+  <br />
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td align="center">
+          <a href="https://github.com/beepboop271">
+            <img src="https://avatars2.githubusercontent.com/u/53926222?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>beepboop271</sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/shari09">
+            <img src="https://avatars0.githubusercontent.com/u/44912260?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>shari09</sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/nightlight521">
+            <img src="https://avatars0.githubusercontent.com/u/10256074?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>nightlight521</sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/candicezzzzz">
+            <img src="https://avatars1.githubusercontent.com/u/58599808?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>candicezzzzz</sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/NathanWong1106">
+            <img src="https://avatars1.githubusercontent.com/u/56657800?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>NathanWong1106</sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/vivian-dai">
+            <img src="https://avatars.githubusercontent.com/u/38384400?v=4" width="100px;" alt=""/>
+            <br />
+            <sub>vivian-dai</sub>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 <br />
 
 <!-- I can't think of a better place to put this -->
@@ -207,18 +209,24 @@ Bam, visitor counter. Super fun trick: If you refresh 50 times, you get to see t
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=emeraldentities-emeraldentities&style=for-the-badge&logo=github&logoColor=white)
   
 </div>
-That's it. See ya!<br /><br />
+
+<div align="center">
+  <h2> That's it. See ya! </h2>
+</div>
 
 <!-- Annndd that's a wrap! Go say thanks to these lovely people and use their things! -->
-<sub>
-  Thanks to:<br />
-  - <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> for the repo and overall GitHub stats. <br />
-  - <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/readme-streak-stats</a> for the streak stats. <br />
-  - <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Nathan13888/VisitorBadgeReloaded</a> for the visitor badge. <br />
-  - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions, and the assets. <br />
-  - <a href="https://shields.io/">shields.io</a> for the badges. <br />
-  - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions. <br />
-  - <a href="https://github.com/beepboop271">beepboop271</a>, this layout was inspired by his.<br />
-  - <a href="https://github.com/vivian-dai">vivian-dai</a>, she inspired me to make a V2.<br />
-  Thanks for making this profile a bit cooler!
-</sub>
+<details>
+  <summary> Thanks to: </summary>
+    <sub>
+      - <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> for the repo and overall GitHub stats. <br />
+      - <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/readme-streak-stats</a> for the streak stats. <br />
+      - <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Nathan13888/VisitorBadgeReloaded</a> for the visitor badge. <br />
+      - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions, and the assets. <br />
+      - <a href="https://shields.io/">shields.io</a> for the badges. <br />
+      - <a href="https://github.com/rishavanand/github-profilinator">rishavanand/github-profilinator</a> for the profilinator, which helped with layout and good code suggestions. <br />
+      - <a href="https://github.com/beepboop271">beepboop271</a>, this layout was inspired by his.<br />
+      - <a href="https://github.com/vivian-dai">vivian-dai</a>, she inspired me to make a V2.<br />
+      - <a href="https://github.com/shari09">shari09</a>, because <3.<br />
+      Thanks for making this profile a bit cooler!
+    </sub>
+</details>
