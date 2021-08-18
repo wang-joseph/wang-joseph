@@ -112,7 +112,7 @@
 
   </p>
   <p>
-    <a href="https://github.com/shari09/StuCo-Website-Redesigned">
+    <a href="https://github.com/rhhsstuco/StuCo-Website-Redesigned">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=radical&show_owner=true"/>
     </a>
     <a href="https://github.com/EmeraldEntities/hofBOTcl">
