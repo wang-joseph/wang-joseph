@@ -41,7 +41,7 @@
     <a href="https://github.com/EmeraldEntities">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=EmeraldEntities&show_icons=true&theme=radical&hide=stars&count_private=true&layout=default&custom_title=GitHub%20Stats"/>
     </a>
-    <a href="https://github.com/EmeraldEntities">
+    <a href="https://wakatime.com/@EmeraldEntities">
       <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmeraldEntities&theme=radical&layout=compact)](https://github.com/EmeraldEntities"/>
     </a>
     
