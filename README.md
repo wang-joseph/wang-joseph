@@ -128,8 +128,8 @@
   
   <br />
   <p>
-    <a href="https://github.com/candicez03/uottahack-3">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&theme=radical&show_owner=true"/>
+    <a href="https://github.com/HTN2021-Minute-Aid/HTN2021-Frontend">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HTN2021-Minute-Aid&repo=HTN2021-Frontend&theme=radical&show_owner=true"/>
     </a>
     <a href="https://github.com/beepboop271/mhacks-12">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=radical&show_owner=true"/>
@@ -137,12 +137,13 @@
   </p>
   
   <p>
-    <a href="https://github.com/HTN2021-Minute-Aid/HTN2021-Frontend">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HTN2021-Minute-Aid&repo=HTN2021-Frontend&theme=radical&show_owner=true"/>
+    <a href="https://github.com/candicez03/uottahack-3">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&theme=radical&show_owner=true"/>
     </a>
-    <a href="https://github.com/EmeraldEntities/ctf-writeups">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=ctf-writeups&theme=radical&show_owner=true"/>
+    <a href="https://github.com/EmeraldEntities/yap-tapp">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=emeraldentities&repo=yap-tapp&theme=radical&show_owner=true"/>
     </a>
+  </p>
 </details>
 
 Now that I think about it, the majority of the pins here are already pinned on my profile... too bad!
@@ -176,7 +177,7 @@ Now that I think about it, the majority of the pins here are already pinned on m
           </a>
         </td>
         <td align="center">
-          <a href="https://github.com/candicezzzzz">
+          <a href="https://github.com/candicez03">
             <img src="https://avatars1.githubusercontent.com/u/58599808?v=4" width="100px;" alt=""/>
             <br />
             <sub>candicezzzzz</sub>
