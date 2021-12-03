@@ -128,8 +128,8 @@
   
   <br />
   <p>
-    <a href="https://github.com/candicezzzzz/uottahack-3">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&theme=radical&show_owner=true"/>
+    <a href="https://github.com/candicez03/uottahack-3">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&theme=radical&show_owner=true"/>
     </a>
     <a href="https://github.com/beepboop271/mhacks-12">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=radical&show_owner=true"/>
