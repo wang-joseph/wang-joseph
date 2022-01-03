@@ -25,9 +25,9 @@
     </a>
   </p>
 
-  Hi there! I'm Joseph Wang, a grade 12 student currently in Richmond Hill High School in Ontario, Canada. 
+  Hi there! I'm Joseph Wang, a first year Computer Science student currently at the University of Waterloo. 
   <br /><br />
-  If you're reading this, chances are you're an RHHS student too, in which case hello there! I hope this README helps you understand me a bit more, so that you can properly address me as "that one guy who has a github that he obnoxiously put everywhere". In the odd case that you might be an employer, hackathon organizer, or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
+  If you're reading this, hello there! I hope this README helps you understand me a bit more, so that you can properly address me as "that one guy who has a github that he obnoxiously put everywhere". In the odd case that you might be an employer, hackathon organizer, or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
   <br /><br />
   I use Python a lot, but I also use JS/TS, and Java (My Java projects are mostly school projects though). Outside of what's shown here, I also learn and dabble occasionally in Julia, C, and Kotlin (nothing pushed to GitHub though).
 
