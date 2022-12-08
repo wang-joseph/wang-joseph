@@ -27,9 +27,9 @@
 
   Hi there! I'm Joseph Wang, a first year Computer Science student currently at the University of Waterloo. 
   <br /><br />
-  If you're reading this, hello there! I hope this README helps you understand me a bit more, so that you can properly address me as "that one guy who has a github that he obnoxiously put everywhere". In the odd case that you might be an employer, hackathon organizer, or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
+  If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer, hackathon organizer, or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
   <br /><br />
-  I use Python a lot, but I also use JS/TS, and Java (My Java projects are mostly school projects though). Outside of what's shown here, I also learn and dabble occasionally in Julia, C, and Kotlin (nothing pushed to GitHub though).
+  I use Python a lot, but I also use JS/TS and Java (My Java projects are mostly school projects though). Outside of what's shown here, I also dabble occasionally in Julia, C, Dart, Rust, and Kotlin.
 
   </p>
 </div>
@@ -70,7 +70,7 @@
 
 <details>
   <summary>
-    Let's talk languages! If you haven't skipped over like half this README, you'll know that I am a huge fan of Python but Typescript is pretty fun too (more like I've been forced to use it too much). Here are some frameworks and languages I know how to use, minus any esoteric ones that I pick up for like 30 minutes and then forget completely (I'm looking at you, 🏁 🍇).
+    Let's talk languages! Here are some frameworks and languages I know how to use, minus any esoteric ones that I pick up for 30 minutes and then forget completely (I'm looking at you, 🏁 🍇).
   </summary>
 
 <div align="center">  
@@ -124,7 +124,7 @@
 <!-- Ahhh, hackathons! Fun fact: I actually only included CTFS in here because I needed one more repo to fill the space or my formatting would break. -->
 ### Hackathons & CTFs
 <details>
-  <summary> I also do hackathons sometimes and they're pretty fun. I've been to four so far - Hack the North 2019, MHacks 12, UOttahack3, and Hack the North 2020++. Hack the North 2020++ was my most recent and the first virtual hackathon I've ever been to, and that was pretty enjoyable... If only I didn't have school work. I've also done a few CTFs, but currently only have partially completed writeups for one CTF: PicoCTF 2021. You can see the repos here. </summary>
+  <summary> I also do hackathons sometimes and they're pretty fun. I've been to a few - like Hack the North 2019, MHacks 12, UOttahack3, and Hack the North 2020++. I've also done a few CTFs, but only have partially completed writeups for PicoCTF 2021. You can see the repos here. </summary>
   
   <br />
   <p>
@@ -146,7 +146,6 @@
   </p>
 </details>
 
-Now that I think about it, the majority of the pins here are already pinned on my profile... too bad!
 <details>
   <summary>Other than that, that's pretty much it. Check out some of my friend/people I've worked with's profiles I guess (hope they don't mind me throwing them in here).</summary>
 
