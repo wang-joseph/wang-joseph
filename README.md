@@ -203,14 +203,6 @@ Now that I think about it, the majority of the pins here are already pinned on m
 </details>
 <br />
 
-<!-- I can't think of a better place to put this -->
-Bam, visitor counter. Super fun trick: If you refresh 50 times, you get to see this counter increment at astonishing rates!
-<div align=center>
-  
-![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=emeraldentities-emeraldentities&style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
-
 <div align="center">
   <h2> That's it. See ya! </h2>
 </div>
