@@ -37,16 +37,6 @@
 <!-- Woo, part 2 of the introduction! More charts and stats and cool stuff and stolen widgets, hurrayyy. -->
 <br />
 <div align="left">        
-  <p>
-    <a href="https://github.com/EmeraldEntities">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=EmeraldEntities&show_icons=true&theme=radical&hide=stars&count_private=true&layout=default&custom_title=GitHub%20Stats"/>
-    </a>
-    <a href="https://wakatime.com/@EmeraldEntities">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmeraldEntities&theme=radical&layout=compact)](https://github.com/EmeraldEntities"/>
-    </a>
-    
-  </p>
-  
   <!-- I hope I don't come off as quite boring! Maybe I should spaz this section up with emojis—it's what all the cool kids seem to be doing. -->
   I'm honestly a very on-off kind of programmer. Some days I'll be working till 4am without sleep and other days I play *Terraria* all day, still without sleep. If you enjoy coin flips and the like, try playing the game "will my wakatime show 200 hours or nothing?"
   <br />
