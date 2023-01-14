@@ -25,25 +25,17 @@
     </a>
   </p>
 
-  Hi there! I'm Joseph Wang, a first year Computer Science student currently at the University of Waterloo. 
-  <br /><br />
-  If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer, hackathon organizer, or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
-  <br /><br />
+  Hi there! I'm Joseph Wang, a first year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
+  <br /> <br />
   I use Python a lot, but I also use JS/TS and Java (My Java projects are mostly school projects though). Outside of what's shown here, I also dabble occasionally in Julia, C, Dart, Rust, and Kotlin.
-
   </p>
 </div>
 
-<!-- Woo, part 2 of the introduction! More charts and stats and cool stuff and stolen widgets, hurrayyy. -->
+<!-- Woo, part 2 of the introduction! More charts and stats and cool stuff and widgets, hurrayyy. -->
 <br />
 <div align="left">        
   <!-- I hope I don't come off as quite boring! Maybe I should spaz this section up with emojis—it's what all the cool kids seem to be doing. -->
-  I'm honestly a very on-off kind of programmer. Some days I'll be working till 4am without sleep and other days I play *Terraria* all day, still without sleep. If you enjoy coin flips and the like, try playing the game "will my wakatime show 200 hours or nothing?"
-  <br />
-  
-  Other than that, I do enjoy doing some other things. A few hobbies include gaming (of course), music production, using dark mode (get it cause lightmode bad), and sleeping! 
-  
-  I also try to do some PRs and the like (contributing to open source!!), but I tend to do more personal projects... I aspire to one day have the technical know-how to confidently contribute to the open source community, though!
+  I'm honestly a very on-off programmer. If you enjoy coin flips, try playing the game "will my wakatime show 200 hours or nothing?". Other than that, I have a few hobbies like music production, learning new things, using dark mode, and sleeping! 
 </div>
 
 <br />
