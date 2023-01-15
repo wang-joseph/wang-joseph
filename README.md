@@ -4,10 +4,10 @@
 ## Hi, I'm Joseph Wang!
 
 <!-- Please follow my socials I want friends and fame -->
-<a href="https://github.com/EmeraldEntities" target="_blank">
+<a href="https://github.com/wang-joseph" target="_blank">
   <img src=https://img.shields.io/badge/-github-%2324292e?style=for-the-badge&logo=github&logoColor=white alt="github" />
 </a>
-<a href="https://linkedin.com/in/joseph-wang1516" target="_blank">
+<a href="https://linkedin.com/in/wang-joseph" target="_blank">
   <img src=https://img.shields.io/badge/-linkedin-%231E77B5?style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" />
 </a>
 <a href="https://instagram.com/EmeraldEntity" target="_blank">
@@ -20,8 +20,8 @@
 <!-- Boo yeah, it's part 1 of the introduction. I say my name twice! -->
 <div align="left">
   <p>
-    <a href="https://github.com/EmeraldEntities">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmeraldEntities&theme=radical"/>
+    <a href="https://github.com/wang-joseph">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-joseph&theme=radical"/>
     </a>
   </p>
 
@@ -43,7 +43,7 @@
 <!-- GitHub streak! This is cool, although it'll stay at 0 for quite some time. Newlines around seem to be necessary, but I haven't the foggiest why. Probably some specification on the markdown flavouring that I haven't bothered to read! -->
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmeraldEntities&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wang-joseph&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
