@@ -20,8 +20,8 @@
 <!-- Boo yeah, it's part 1 of the introduction. I say my name twice! -->
 <div align="left">
   <p>
-    <a href="https://github.com/wang-joseph">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-joseph&theme=radical"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-joseph&layout=compact&theme=radical"/>
     </a>
   </p>
 
