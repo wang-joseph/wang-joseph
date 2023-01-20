@@ -25,7 +25,7 @@
     </a>
   </p>
 
-  Hi there! I'm Joseph Wang, a first year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
+  Hi there! I'm Joseph Wang, a second year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
   <br /> <br />
   I use Python a lot, but I also use TS and Java. Outside of what's shown here, I also dabble occasionally in Julia, C, Dart, Rust, and Kotlin.
   </p>
