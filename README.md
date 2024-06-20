@@ -17,24 +17,21 @@
   <img src=https://img.shields.io/badge/-devpost-white?style=for-the-badge&logo=devpost&logoColor=black alt="devpost" />
 </a>  
 
+<br />
+<br />
+
 <!-- Boo yeah, it's part 1 of the introduction. I say my name twice! -->
 <div align="left">
-  <p>
+<!--   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats-wang-joseph.vercel.app/api/top-langs/?username=wang-joseph&layout=compact&theme=radical"/>
     </a>
-  </p>
+  </p> -->
 
-  Hi there! I'm Joseph Wang, a second year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
+  Hi there! I'm Joseph Wang, a third-year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
   <br /> <br />
   I use Python a lot, but I also use TS and Java. Outside of what's shown here, I also dabble occasionally in Julia, C, Dart, Rust, and Kotlin.
   </p>
-</div>
-
-<!-- Woo, part 2 of the introduction! More charts and stats and cool stuff and widgets, hurrayyy. -->
-<div align="left">        
-  <!-- I hope I don't come off as quite boring! Maybe I should spaz this section up with emojis—it's what all the cool kids seem to be doing. -->
-  I'm honestly a very on-off programmer. If you enjoy coin flips, try playing the game "will my wakatime show 200 hours or nothing?". Other than that, I have a few hobbies like music production, learning new things, using dark mode, and sleeping! 
 </div>
 
 <br />
@@ -42,7 +39,7 @@
 <!-- GitHub streak! This is cool, although it'll stay at 0 for quite some time. Newlines around seem to be necessary, but I haven't the foggiest why. Probably some specification on the markdown flavouring that I haven't bothered to read! -->
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wang-joseph&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wang-joseph&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,24 +77,24 @@
 ## Projects
 
 <details>
-  <summary> I do occasional small projects, but honestly a lot of my projects scream "google drive but for code". Most of the projects I work on generally aren't my own repos, but someone else's repo that I contribute to. Here are some that I like. </summary>
+  <summary> I do occasional small projects. Most of the projects I work on generally aren't my own repos, but someone else's repo that I contribute to. Here are some that I like. </summary>
   
   <br />
   <p> <!-- The <p> tag formats it correctly -->
-    <a href="https://github.com/EmeraldEntities/arknights-scraper">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=arknights-scraper&theme=radical"/>
+    <a href="https://github.com/wang-joseph/arknights-scraper">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-joseph&repo=arknights-scraper&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
     <a href="https://github.com/RyanLin11/Good-Night-Out">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RyanLin11&repo=Good-Night-Out&theme=radical"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RyanLin11&repo=Good-Night-Out&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
 
   </p>
   <p>
     <a href="https://github.com/shari09/StuCo-Website-Redesigned">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=radical&show_owner=true"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
-    <a href="https://github.com/EmeraldEntities/hofBOTcl">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=hofBOTcl&theme=radical"/>
+    <a href="https://github.com/wang-joseph/hofBOTcl">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-joseph&repo=hofBOTcl&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
   </p>
 </details>
@@ -110,77 +107,24 @@
   <br />
   <p>
     <a href="https://github.com/HTN2021-Minute-Aid/HTN2021-Frontend">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HTN2021-Minute-Aid&repo=HTN2021-Frontend&theme=radical&show_owner=true"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HTN2021-Minute-Aid&repo=HTN2021-Frontend&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
     <a href="https://github.com/beepboop271/mhacks-12">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=radical&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
   </p>
   
   <p>
     <a href="https://github.com/candicez03/uottahack-3">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&theme=radical&show_owner=true"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
-    <a href="https://github.com/EmeraldEntities/yap-tapp">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=emeraldentities&repo=yap-tapp&theme=radical&show_owner=true"/>
+    <a href="https://github.com/wang-joseph/yap-tapp">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-joseph&repo=yap-tapp&theme=catppuccin_mocha&hide_border=true&show_owner=true"/>
     </a>
   </p>
 </details>
 
-<details>
-  <summary>Other than that, that's pretty much it. Check out some of my friend/people I've worked with's profiles I guess (hope they don't mind me throwing them in here).</summary>
-
-  <!-- One day I dream that Github markdown will support border=0... I've listed some people I've worked with here, they're pretty cool! -->
-  <br />
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td align="center">
-          <a href="https://github.com/beepboop271">
-            <img src="https://avatars2.githubusercontent.com/u/53926222?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>beepboop271</sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/shari09">
-            <img src="https://avatars0.githubusercontent.com/u/44912260?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>shari09</sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/nightlight521">
-            <img src="https://avatars0.githubusercontent.com/u/10256074?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>nightlight521</sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/candicez03">
-            <img src="https://avatars1.githubusercontent.com/u/58599808?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>candicezzzzz</sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/NathanWong1106">
-            <img src="https://avatars1.githubusercontent.com/u/56657800?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>NathanWong1106</sub>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/vivian-dai">
-            <img src="https://avatars.githubusercontent.com/u/38384400?v=4" width="100px;" alt=""/>
-            <br />
-            <sub>vivian-dai</sub>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
+<br />
 <br />
 
 <div align="center">
