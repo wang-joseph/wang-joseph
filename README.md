@@ -1,7 +1,7 @@
-<!-- Welcome to my README! Here are some 🪑chairs🪑 and 🍪cookies🍪 as you try to comprehend what godforsaken aborrhant creature arose as a result of this README... -->
+<!-- Welcome to my README! Here are some 🪑chairs🪑 and 🍪cookies🍪 as you try to comprehend what godforsaken abhorrent creature arose as a result of this README... -->
 
 <!-- Hey myself, replace this with a poppin header later when I'm not tired -->
-## Hi, I'm Joseph Wang!
+## Hey, I'm Joseph Wang! 🥭🌱
 
 <!-- Please follow my socials I want friends and fame -->
 <a href="https://github.com/wang-joseph" target="_blank">
@@ -124,7 +124,6 @@
   </p>
 </details>
 
-<br />
 <br />
 
 <div align="center">
