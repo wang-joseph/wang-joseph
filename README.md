@@ -28,9 +28,7 @@
     </a>
   </p> -->
 
-  Hi there! I'm Joseph Wang, a third-year Computer Science student currently at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
-  <br /> <br />
-  I use Python a lot, but I also use TS and Java. Outside of what's shown here, I also dabble occasionally in Julia, C, Dart, Rust, and Kotlin.
+  Hi there! I'm Joseph Wang, studying CS at the University of Waterloo. If you're reading this, hello there! I hope this README helps you understand me a bit more. In the odd case that you might be an employer or my mother, I promise that I can write a lot more formally. A job would be nice. Please hire me.
   </p>
 </div>
 
@@ -39,7 +37,7 @@
 <!-- GitHub streak! This is cool, although it'll stay at 0 for quite some time. Newlines around seem to be necessary, but I haven't the foggiest why. Probably some specification on the markdown flavouring that I haven't bothered to read! -->
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wang-joseph&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=wang-joseph&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -48,7 +46,7 @@
 
 <details>
   <summary>
-    Let's talk languages! Here are some frameworks and languages I know how to use, minus any esoteric ones that I pick up for 30 minutes and then forget completely (I'm looking at you, 🏁 🍇).
+    Here are some frameworks and languages I know how to use, minus any fun ones (I'm looking at you, 🏁 🍇).
   </summary>
 
 <div align="center">  
@@ -73,11 +71,11 @@
 </div>  
 </details>
 
-<!-- The real meat of this github thingy, or so I hope... I don't actually have a lot of projects, yet! -->
+<!-- The real meat of this github thingy -->
 ## Projects
 
 <details>
-  <summary> I do occasional small projects. Most of the projects I work on generally aren't my own repos, but someone else's repo that I contribute to. Here are some that I like. </summary>
+  <summary> I do occasional small projects. Here are some that I like. </summary>
   
   <br />
   <p> <!-- The <p> tag formats it correctly -->
@@ -100,9 +98,10 @@
 </details>
 
 <!-- Ahhh, hackathons! Fun fact: I actually only included CTFS in here because I needed one more repo to fill the space or my formatting would break. -->
-### Hackathons & CTFs
+## Hackathons & CTFs
+
 <details>
-  <summary> I also do hackathons sometimes and they're pretty fun. I've been to a few - like Hack the North 2019, MHacks 12, UOttahack3, and Hack the North 2020++. I've also done a few CTFs, but only have partially completed writeups for PicoCTF 2021. You can see the repos here. </summary>
+  <summary> I also used to do hackathons and CTFs sometimes. You can see some repos here. </summary>
   
   <br />
   <p>
