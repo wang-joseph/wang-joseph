@@ -10,9 +10,6 @@
 <a href="https://linkedin.com/in/wang-joseph" target="_blank">
   <img src=https://img.shields.io/badge/-linkedin-%231E77B5?style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" />
 </a>
-<a href="https://instagram.com/EmeraldEntity" target="_blank">
-  <img src=https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=white alt="instagram" />
-</a>
 <a href="https://devpost.com/EmeraldEntities" target="_blank">
   <img src=https://img.shields.io/badge/-devpost-white?style=for-the-badge&logo=devpost&logoColor=black alt="devpost" />
 </a>  
